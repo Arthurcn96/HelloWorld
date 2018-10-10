@@ -60,6 +60,27 @@ as you can and star this project to help as many people in opensource as you can
 <br/>
 [Arthur Novais](https://github.com/Arthurcn96)
 <br/>
+[Rishabh Rajput](https://github.com/rrishabh145)
+<br/>
+[Soul Spark](https://github.com/soulspark666)
+<br/>
+[Marcin Badurowicz](https://github.com/ktos)
+<br/>
+[Andriy Yevseytsev](https://github.com/yevseytsev)
+<br/>
+[Hermano Leite](https://github.com/HermanoLeite)
+<br/>
+[UlVc](https://github.com/UlVc)
+<br/>
+[Brayden Girard](https://github.com/braydengirard)
+<br/>
+[Egor Dorichev](https://github.com/egordorichev)
+<br/>
+[Chathura Karunasekara](https://github.com/Kcatnapper)
+<br/>
+[Rafael Silva Pereira](https://github.com/RafaelSilvaPereira)
+<br/>
+
 -----
 # Don't forget to add yourself to Contributor's list
 -----
